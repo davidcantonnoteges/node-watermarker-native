@@ -16,8 +16,7 @@
   ],
   "main": "./index.js",
   "scripts": {
-    "test": "node test/test.js",
-    "install": "node-gyp rebuild"
+    "test": "node test/test.js"
   },
   "engines": {
     "node": "*"
